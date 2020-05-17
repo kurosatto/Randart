@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Randart</string>
+  <string name="description"> Get your daily dose of art from the collection of Harvard Art Museum." </string>
+  <string name="description2"> Explore art among cultures. The categories selected based on the number of collections." </string>
+</resources>
